@@ -5,3 +5,5 @@ https://github.com/sudhich/tkinter
 https://github.com/sudhich/Package_In_Python
 ### Regular expression link-
 https://github.com/sudhich/iNeuron-Assignment-Python/blob/main/Regex%20objects.ipynb
+### mysql
+https://github.com/sudhich/Pyhton_Sql/tree/main/python
